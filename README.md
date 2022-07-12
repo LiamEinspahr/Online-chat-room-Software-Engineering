@@ -21,6 +21,6 @@ Isaac Kuhlmann || https://github.com/isaac-kuhlmann
 Will Thomas || https://github.com/Durbatuluk1701
  
 --------------------------------------------------------------------------------------------------------
-NOTE: The Google Firebase that has been used to implement the project has been shutdown due to financial costs
+NOTE: The Google Firebase that was used to implement the project has been shutdown due to financial costs
 
 
