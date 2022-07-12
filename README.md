@@ -22,6 +22,7 @@ Will Thomas || https://github.com/Durbatuluk1701
  
 --------------------------------------------------------------------------------------------------------
 You can view the original repository [here](https://github.com/isaac-kuhlmann/eecs-448-chat-room)
+
 --------------------------------------------------------------------------------------------------------
 NOTE: The Google Firebase that was used to implement the project has been shutdown due to financial costs
 
