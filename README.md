@@ -4,6 +4,7 @@ Re-added the finalized repository under my own GitHub account for ease of access
 
 A fully functional chat-room with the ability to create user accounts and store user's previous messages
 
+Developed from Fall 2020 to Spring 2021
 --------------------------------------------------------------------------------------------------------
 Original Creators:
 
