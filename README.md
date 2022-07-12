@@ -1,7 +1,7 @@
 Software Engineering (EECS448) Final Project
 --
 
-Re-added the finalized repository under my own GitHub account for ease of access
+Re-added the finalized project code under my own GitHub account for ease of access
 
 A fully functional chat-room with the ability to create user accounts and store user's previous messages
 
